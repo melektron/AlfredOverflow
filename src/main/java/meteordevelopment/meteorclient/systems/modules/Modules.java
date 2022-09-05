@@ -464,6 +464,7 @@ public class Modules extends System<Modules> {
         add(new NoFall());
         add(new NoSlow());
         add(new Parkour());
+        add(new RaidFarmer());
         add(new ReverseStep());
         add(new SafeWalk());
         add(new Scaffold());
