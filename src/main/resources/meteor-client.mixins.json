@@ -152,6 +152,7 @@
     "TitleScreenMixin",
     "TridentItemMixin",
     "Vec3dMixin",
+    "VehicleMoveC2SPacketAccessor",
     "VertexBufferMixin",
     "WorldAccessor",
     "WorldChunkMixin",
